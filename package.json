@@ -1,0 +1,26 @@
+{
+  "name": "playwright-sdet",
+  "version": "1.0.0",
+  "description": "Proyecto práctico para evolucionar de QA Automation Engineer a SDET mediante entregas verificables con TypeScript y Playwright.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalcomJesid/playwright-sdet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MalcomJesid/playwright-sdet/issues"
+  },
+  "homepage": "https://github.com/MalcomJesid/playwright-sdet#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0"
+  }
+}
